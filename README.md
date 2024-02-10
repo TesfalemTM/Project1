@@ -27,4 +27,4 @@ This project aims to help the world effort in combating misinformation and contr
 
 ## Results and evaluation
 - **Result**: Appropriate fit.
-- **Metrix**: Accuracy, Precision, Recall.
+- **Metrics**: Accuracy, Precision, Recall.
